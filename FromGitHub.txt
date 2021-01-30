@@ -1,1 +1,8 @@
-This is the I added directly from github.com
+This is the I added directly from github.com from local repository more changes
+
+hey ı just cloned my project
+from my github account
+just by clicking open with GitHub desktop
+on github.com
+and it magically cloned my project
+to the location i specified
